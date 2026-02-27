@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>demperor-overlay</name>
+      <description lang="en">Demperor's personal overlay.</description>
+        <homepage>https://github.com/demperor-music/demperor-overlay</homepage>
+        <source type="git">git://github.com/demperor-music/demperor-overlay.git</source>
+        <feed>https://github.com/demperor-music/demperor-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
